@@ -8,5 +8,7 @@ public class BranchingPractice2 {
         System.out.println("make some commits");
         System.out.println("commit 1");
 
+        System.out.println("commit 2");
+
     }
 }
