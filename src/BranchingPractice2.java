@@ -10,5 +10,7 @@ public class BranchingPractice2 {
 
         System.out.println("commit 2");
 
+        System.out.println("now merge the feature-20 and master");
+
     }
 }
