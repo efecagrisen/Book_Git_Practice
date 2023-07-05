@@ -3,5 +3,7 @@ public class GitPracticeBranching {
         System.out.println("Git Practice");
 
         System.out.println("update1");
+
+        System.out.println("update 2");
     }
 }
